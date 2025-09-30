@@ -100,5 +100,3 @@ Always seek the advice of a qualified healthcare provider with any questions reg
 * Kamali M
 * Kaviarasi K
 * Jeliz Feeba D
-* 
-✨ Built with ❤️ using AI and modern web technologies.
