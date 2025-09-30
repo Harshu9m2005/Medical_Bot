@@ -72,16 +72,11 @@ npm run dev
 
 Open your browser at [http://localhost:5173](http://localhost:5173).
 
----
-
  📡 Tech Stack
-
 * Frontend: React, TypeScript, TailwindCSS, Vite
 * AI/LLM: Groq API (LLaMA 3.3 model)
 * Location Services: LocationIQ API
 * Streaming: Real-time AI responses
-
----
 
  📌 Example Usage
 
@@ -93,15 +88,10 @@ Open your browser at [http://localhost:5173](http://localhost:5173).
 
 * Bot: 🏡 "Try warm saltwater gargling and stay hydrated. If it persists, consult a General Physician."
 
----
-
 ⚠️ Disclaimer
-
 This chatbot is for informational purposes only.
 It is not a substitute for professional medical advice, diagnosis, or treatment.
 Always seek the advice of a qualified healthcare provider with any questions regarding your health.
-
----
 
 👩‍💻 Contributors
 (Team Member)
@@ -110,11 +100,5 @@ Always seek the advice of a qualified healthcare provider with any questions reg
 * Kamali M
 * Kaviarasi K
 * Jeliz Feeba D
-
----
-
+* 
 ✨ Built with ❤️ using AI and modern web technologies.
-
----
-
-Do you want me to also **add screenshots & a usage demo section** (like how the chatbot UI looks) for better presentation in GitHub?
